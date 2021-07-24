@@ -18,6 +18,7 @@
         <module>Factory</module>
         <module>Builder</module>
         <module>Prototype </module>
+        <module>Strategy</module>
     </modules>
 
     <build>
